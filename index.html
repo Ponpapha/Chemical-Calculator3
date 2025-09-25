@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mole Calculator (mol = g/M.W.)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mole Calculator</h1>
+    </header>
+
+    <main>
+        <section class="calculator-panel">
+            <h2>Calculate Moles</h2>
+
+            <div class="formula-display">
+                <p>Moles = </p>
+                <div class="fraction-line">
+                    <input type="number" id="mass" placeholder="Mass (g)">
+                    <hr> 
+                    <input type="number" id="molar-mass" placeholder="Molar Mass (g/mol)" readonly>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button id="calculate-btn">Calculate Moles</button>
+                <button id="reset-mw-btn">Reset M.W.</button>
+            </div>
+
+            <div class="result-area">
+                <h3>Result:</h3>
+                <p id="moles-output">0.00</p>
+            </div>
+        </section>
+
+        <section class="periodic-table-container">
+            <h2>Interactive Periodic Table</h2>
+            <div id="periodic-table-grid">
+                </div>
+        </section>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

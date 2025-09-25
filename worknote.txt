@@ -1,0 +1,349 @@
+Yesterday 28/02/25
+- Discuss with P'Por
+- Test failed workflow
+- Revise validate task
+
+Yesterday 03/03/25
+- Prepare diagram before meeting
+- Automation network weekly meeting
+- Help P'Peem create collections and roles
+- Talk with P'Nan about SummitAI API
+
+Yesterday 04/03/25
+- Create CR on SummitAI with P'Ball
+- Revise action_tasks var name & Test code
+- Help teammate solve bug code issue
+- Test query file on SummitAI by ref CR number
+- Test query file on SummitAI via playbook
+
+Yesterday 05/03/25
+- Create query file on SummitAI playbook
+- Create python plugin to convert byte array to csv file
+
+Yesterday 06/03/25
+- Fix bug red dot on front of string when convert byte array to csv file
+- CCOE meeting
+
+Yesterday 07/03/25
+- Debug hidden charecter include when convert bytearray to csv with P'Nan
+- Edit Jinja2 template to refer to CR No.
+- Test workflow with query file on SummitAI playbook
+
+Yesterday 10/03/25
+- Test CyberAck with P'Fact
+- Automation weekly meeting for Network team
+- Re-stracture playbooks and workflow
+
+Yesterday 11/03/25
+- Test CyberAck with P'Fact
+- Test connnection on each job by retrive CyberArk user in once
+- Create check existing configuration on port
+
+Yesterday 12/03/25
+- Create AD-HOC workflow [DONE]
+- Continue develop interface configuration checker [DONE]
+- Pilot test Automation SDN meeting [DONE]
+
+Yesterday 13/03/25
+- IPAM Infoblox meeting
+- Continue develop interface configuration checker [DONE]
+- Integrate interface configuration checker with workflow [DONE]
+- Develop config result for more infomation [On-progress]
+
+Yesterday 14/03/25
+- Enable WSL and install podman [DONE]
+- Consult P'Nan about CM_GetCR_Details [DONE]
+- Test get attachment list from CM_GetCR_Details [DONE]
+- Develop download file on SummitAI by prefix filename [DONE]
+- Develop config result for more infomation [On-progress]
+- Create activity plan [DONE]
+
+Yesterday 17/03/25
+- Develop config result for more infomation [On-progress]
+- Automation Meeting for Network Team (pilot test & Tufin)
+- Edit mail template (Subject & Timestamp) [DONE]
+
+Yesterday 18/03/25
+- Edit download file from SummitAI (CRxxxx-config-ipg-v2) [DONE]
+- Craete get timestamp python plugin [DONE]
+- Develop config result for more infomation [On-progress]
+
+Yesterday 19/03/25
+- Develop config result for more infomation [DONE]
+- Create Oraganization prod [DONE]
+- Duplicate job template [On-progress]
+- Test get detail prod CR [DONE]
+- Test get attachment prod CR [DONE]
+
+Yesterday 20/03/25
+- Test get attachment prod CR [DONE]
+- Duplicate job template [DONE]
+- Test prod workflow [DONE]
+- Bi-weekly meeting
+- Pilot Test 22:00 - 05:00
+
+Yesterday 21/03/25
+- Create pilot test MOM email
+
+Yesterday 24/03/25
+- Create Docs 
+- Request example docs from Automation team
+- Automation weekly meeting for Network
+-- Tufin flow
+-- Update Tufin environment status
+-- Pliot test [DONE] use config via SummitAI, use config AD-HOC method, error handling
+-- Deploy single site per times
+-- No logic for use case: attach config more than 1 site in change
+
+Yesterday 25/03/25
+- Edited playbooks to support config by APIC site
+- Create Docs 
+
+Yesterday 26/03/25
+- Test playbooks [DONE]
+- Test create ipg on rm and cb site [DONE]
+- Create Docs
+
+Yesterday 27/03/25
+- Create docs
+- Automation meeting for Tufin Firewall flow
+
+Yesterday 28/03/25
+- Create docs
+
+Yesterday 31/03/25
+- Create docs: Troubleshoot
+- Automation weekly meeting for Network
+- Learn Tufin API
+
+Yesterday 01/04/25
+- Watch Tufin demo
+- Watch Panorama demo
+- Learn Tufin API
+- Make appointment walkthrough meeting with K.meaw
+
+Yesterday 02/04/25
+- Search Checkpoint
+
+Yesterday 03/04/25
+- Tufin walkthrough
+- Design Ansible action
+
+Yesterday 04/04/25
+- Sick leave
+
+Yesterday 08/04/25
+- Check Tufin lab status
+- Search Tufin open ticket API
+- If lab is done, try on lab
+- If lab is not done, draft open ticket playbook
+
+Yesterday 09/04/25
+- Tufin lab in not done
+- Revise SDN document
+- Test trigg Ansible workflow with extra_vars via API
+
+Yesterday 10/04/25
+- Create Jinja2 template for Tufin API
+- Create playbook to convert json to xml for Tufin API
+
+Yesterday 11/04/25
+- Create auto generate request access when recieve specific service from portal
+
+Yesterday 16/04/25
+- Ask Tufin lab status
+- Create questionire for common and specific services
+- Send questionire email
+- Request firewall to new Tufin IP
+- Request creadential for Tufin, palo, chackpoint
+
+Yesterday 17/04/25
+- Bussiness leave
+
+Yesterday 18/04/25
+- ตามเรื่อง Tufin lab กับคุณ Vichan
+- ยังไม่ได้เปิด Firewall ไปหา 192.168.223.188
+- Credential ทีม firewall จะ gen ให้ภายในอาทิตย์หน้า
+- Create network lab with 8 router, 2 core switch
+- Vscode disappear opne new SR
+
+Yesterday 21/04/25
+- Config the rest router and core switch
+- Crete ubuntu vm
+- Automation weekly meeting for Network
+- Troubleshoot packets from brigde network cannot pass through L3 routing
+- Research python network topology
+
+Yesterday 22/04/25
+- Research python network topology
+- Tufin workflow detail meeting
+- Disccuss workflow with P'Tom
+- Create python collect infomation network
+
+Yesterday 23/04/25
+- Continue create python network topology script
+- OJT SDN automation
+
+Yesterday 24/04/25
+- Continue create python network topology script
+- [Automation]Discuss about Tufin Firewall Flow with Server Team
+- [Reserve] POC - Summit Automation session 2 (BAY UAT Env)
+
+Yesterday 28/04/25
+- Continue create python network topology script
+- missing hop
+
+Yesterday 29/04/25
+- Continue create python network topology script
+- re-design data stracture in code
+- revise code due to re-design data stracture
+
+Yesterday 30/04/25
+- label interface, subnet between node
+- คุยกับคุณ Vichan เรื่อง Tufin lab และ LLDP บน Firewall
+
+Yesterday 02/05/25
+- Continue create python network topology script
+- ขยายผลต่อไปยัง L2 Devices
+- แปลง Code เป็น Class
+- Dev src IP, dst IP path picker
+
+Yesterday 07/05/25
+- Dev src IP, dst IP path picker 
+- Dev SSH from ARP table
+
+Yesterday 08/05/25
+- Dev SSH from ARP table
+- ตาม user Lab Tufin
+- Discussion: Request Core Network configuration for developing Firewall Topology ansible use case
+
+Yesterday 09/05/25
+- Draft playbook 
+--> config collector
+--> Create spilt text plungin
+--> Add node to Tufin
+
+Yesterday 13/05/25
+- convert excel to ymal
+- Discuss about FW routing for Tufin
+
+Yesterday 14/05/25
+- Test Tufin open ticket API
+
+Yesterday 15/05/25 
+- Troubleshoot send API success but Ansible workflow failed (default return expect is 200 change it to 201)
+- Research new Tufin workflow that KD provided
+- Dev open tikcet playbook for new Automation workflow 
+- Adjust Jinja2 template for new workflow
+- Test pass portal ticket ID [DONE] and attachment file
+
+Yesterday 16/05/25
+- Test pass portal ticket ID [DONE] and attachment file [DONE]
+
+Yesterday 19/05/25
+- Network automation meeting
+- Create open ticket workflow with survey
+- Create Python plugin convert portal data to tufin data structure
+
+Yesterday 20/05/25
+- Dev open ticket Tufin
+- Edit data converter firewall rule survey to tufin data structure
+- seperate workflow portal & AAP
+- Edit Jinja2 template
+- Troubleshoot Jinja2 template comma condition not working due to change specific_service data type from dict to list
+
+Yesterday 21/05/25
+- Dev open ticket Tufin
+- Edit jinja template to support custom rule both PORTAL and AAP
+- Error exception on PORTAL & AAP playbooks (block, rescue, always)
+- Email summit ticket notification (failed_email[DONE],success_email[on progress])
+
+Yesterday 21/05/25
+- Dev open ticket Tufin
+
+Yesterday 23/05/25
+- Email summit ticket notification (failed_email[DONE],success_email[on progress])
+
+Yesterday 26/05/25
+- Email summit ticket notification (failed_email[DONE],success_email[DONE])
+- Create Jinja2 template for success notification, summary ticket as table
+- ช่วย P'Peem ดู playbooks 
+- Fix bug wrong subnet mask
+
+Yesterday 27/05/25
+- ตามข้อมูล src dst ทีั่เป็น Obj -> BAY_NETWORK: Tier1, BAY_NETWORK: Tier2, BAY_NETWORK: Tier3, DesktopMgmt1-5, Device: T3-Juniper-DC1
+- Update specific service
+- Create validate input function 
+- Create filter rule function
+
+Yesterday 28/05/25
+- Update common service
+- Continue dev filter rule plungin 
+- Fix python version from Python 3.6 to Python 3.9
+- Test filter rule plugin
+
+Yesterday 29/05/25
+- ตามข้อมูล Tufin workflow list และ ช่องกรอก เหมือนกันรึป่าว ?
+- Create workflow parameter as dynamic vars
+- Clean code
+
+Yesterday 30/05/25
+- Find and test tufin GET specific rules api
+
+Yesterday 04/05/25
+- Create duplicate rule workflow
+- Create role GET specific rule on each devices on Tufin
+- Create role GET network object and replace object with actual data [On-progress]
+
+Yesterday 05/05/25
+- Create role GET network object and replace object with actual data [DONE]
+- Create role GET service object and replace object with actual data [On-progress]
+
+Yesterday 06/05/25
+- Tufin flow meeting
+- Adjust and test payload for Tufin BAY standard workflow
+- Adjust Jinja template for more ticket detail
+
+Yesterday 09/06/25
+- Create role GET service object and replace object with actual data [On-progress]
+
+Yesterday 10/06/25
+- Create role GET service object and replace object with actual data [DONE]
+- Revise roles generate access request and jinja template
+- Create duplicate rules workflow and test (launch on AAP)
+- Fix format_services plugin
+
+Yesterday 11/06/25
+- Automation weekly for Network
+- Test and handle error duplicate rules
+- Fix playbook cannot GET host form group object
+- Fix playbook wrong output when format service as Any_object
+
+Yesterday 12/06/25
+- Fix SDN check existing interface playbook 
+- Fix SDN MSO cannot deploy template to APIC when high volume of config line
+- Test and handle error duplicate rules
+- Standby Create IPG, Assign interface IPG, Static port EPG
+- Fix code check existing interface playbook while deploying config
+
+Yesterday 13/06/25
+- Create assign target firewall script
+- ตาม Duplicate workflow
+
+Yesterday 16/06/25
+- Optimize playbook change logic from query every object to summit ticket with object [DONE]
+- Filter disable rule [DONE]
+- find solution cannot duplicate rule 172.16.161.2 due to sources and destinations more that 1,500 item [DONE]
+- ปรึกษา Tufin duplicate workflow meeting
+
+Yesterday 17/06/25
+- Dev Tufin duplicate rules
+- Add firewall target into playbooks
+- Automation weekly meeting for Network team
+- Test Tufin requester cannot open ticket and query device via API
+
+Today 18/06/25
+- Dev Tufin duplicate rules
+- Add firewall target into playbooks
+- Add comment on rules
+- Add logic check target host in object group
